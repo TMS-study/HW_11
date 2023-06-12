@@ -1,0 +1,11 @@
+{
+  "name": "hw_11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node hw_11.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
